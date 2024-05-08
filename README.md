@@ -20,7 +20,15 @@ React JS
 
 Npm Packages are used:
 https://www.npmjs.com/package/bootstrap
+
+
 https://www.npmjs.com/package/react-router-dom
+
+
 https://www.npmjs.com/package/react-rating-stars-component
+
+
 https://www.npmjs.com/package/react-icons
+
+
 https://www.npmjs.com/package/react-toastify
