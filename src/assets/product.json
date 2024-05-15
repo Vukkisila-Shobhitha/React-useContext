@@ -1,0 +1,70 @@
+
+[
+    {
+        "id": 1,
+        "title": "iPhone SE",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        "images": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_new-iphone-se-white_04152020_big.jpg.large.jpg"
+            
+        
+    },
+    {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+        "images":  "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Samsung A33",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+        "images": "https://cdn.dxomark.com/wp-content/uploads/medias/post-112131/Samsung-Galaxy-A33-5G-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+        "images": "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/hxwnSiSJ89urUqAQ.png?x-amz-process=image/format,webp/quality,Q_80"
+    },
+    {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+        "images": "https://m.media-amazon.com/images/I/6142PPCdOYL.jpg"
+    }
+]
