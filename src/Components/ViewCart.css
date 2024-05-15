@@ -1,0 +1,33 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.cart-product{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items:  center;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    justify-content: space-between;
+}
+.cart-product-details{
+    margin-right: 300px;
+}
+.cart-product .img{
+    width: 100px;
+    height: 100px;
+}
+.cart-product .img img{
+    width: 100%;
+    height: 100%;
+}
+ .cart-quantity{
+   display: flex;
+   gap: 5px;
+
+}
+.total{
+   margin-top: 10px;
+}
